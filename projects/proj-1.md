@@ -2,7 +2,7 @@
 layout: post
 title: 'OpenROV Trident'
 ---
-I led the hardware development for [Trident](https://www.openrov.com/products/trident/) the world's frst accessible underwater drone, from concept to production.
+I led the hardware development for [Trident](https://www.openrov.com/products/trident/) the world's first accessible underwater drone, from concept to production.
 I was responsible for all mechanical parts from ideation and design, through manufacture and validation.
 
 Lead Product Design Engineer  
